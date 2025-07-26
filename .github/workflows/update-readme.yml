@@ -1,0 +1,30 @@
+name: Update Root README
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/README.md"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Run update script
+        run: node .github/scripts/update-readme.js
+
+      - name: Commit and push changes if README.md updated
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --cached --exit-code || (git commit -m "Update root README [skip ci]" && git push)
