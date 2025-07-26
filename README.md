@@ -4,9 +4,9 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 1 |
+| Easy | 2 |
 
-### Total Solved: 1
+### Total Solved: 2
 
 ## Problems
 
@@ -15,4 +15,5 @@
 | Number | Title |
 | --- | --- |
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately) |
+| 2235 | [Add Two Integers](./2235-add-two-integers) |
 
