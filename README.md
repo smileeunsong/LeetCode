@@ -4,9 +4,9 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 8 |
+| Easy | 9 |
 
-### Total Solved: 8
+### Total Solved: 9
 
 ## Problems
 
@@ -16,6 +16,7 @@
 | --- | --- |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
 | 412 | [Fizz Buzz](./0412-fizz-buzz) |
+| 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) |
