@@ -5,8 +5,9 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 11 |
+| Medium | 1 |
 
-### Total Solved: 11
+### Total Solved: 12
 
 ## Problems
 
@@ -25,4 +26,10 @@
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately) |
 | 2235 | [Add Two Integers](./2235-add-two-integers) |
 | 2236 | [Root Equals Sum of Children](./2236-root-equals-sum-of-children) |
+
+### Medium
+
+| Number | Title |
+| --- | --- |
+| 133 | [Clone Graph](./0133-clone-graph) |
 
