@@ -23,7 +23,7 @@ function isValidBST(root: TreeNode | null): boolean {
     }
 
     inorder(root);
-    for (let i = 0; i <= inorderRes.length; i++) {
+    for (let i = 0; i < inorderRes.length - 1; i++) {
         if (inorderRes[i] >= inorderRes[i + 1]) return false;
     }
 
