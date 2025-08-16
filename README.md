@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 1 |
 
-### Total Solved: 12
+### Total Solved: 13
 
 ## Problems
 
@@ -15,6 +15,7 @@
 
 | Number | Title |
 | --- | --- |
+| 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
 | 383 | [Ransom Note](./0383-ransom-note) |
 | 412 | [Fizz Buzz](./0412-fizz-buzz) |
