@@ -11,7 +11,27 @@
  *     }
  * }
  */
+
+// BFS 풀이
 function minDepth(root: TreeNode | null): number {
+    if (!root) return 0;
+
+    const queue: [TreeNode, number][] = [[root, 1]];
+
+    while (queue.length > 0) {
+        const [node, depth] = queue.shift()!;
+
+        // 첫 번째 리프 노드를 찾으면 바로 반환
+        if (!node.left && !node.right) return depth;
+
+        if (node.left) queue.push([node.left, depth + 1]);
+        if (node.right) queue.push([node.right, depth + 1]);
+    }
+
+    return 0; // 이 줄은 도달하지 않음 (루트가 null이면 위에서 처리됨)
+}
+
+function minDepthRecursive(root: TreeNode | null): number {
     // 빈 트리면 깊이 0
     if (!root) return 0;
 
