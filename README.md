@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 2 |
 
-### Total Solved: 18
+### Total Solved: 19
 
 ## Problems
 
@@ -20,6 +20,7 @@
 | 101 | [Symmetric Tree](./0101-symmetric-tree) |
 | 104 | [Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree) |
 | 110 | [Balanced Binary Tree](./0110-balanced-binary-tree) |
+| 111 | [Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree) |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
 | 383 | [Ransom Note](./0383-ransom-note) |
 | 412 | [Fizz Buzz](./0412-fizz-buzz) |
