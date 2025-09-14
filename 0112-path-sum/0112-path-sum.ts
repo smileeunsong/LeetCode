@@ -11,17 +11,23 @@
  *     }
  * }
  */
-
 function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
+    if (!root) return false;
+    if (!root.left && !root.right) return targetSum === root.val;
+
+    return hasPathSum(root.left, targetSum - root.val) || hasPathSum(root.right, targetSum - root.val);
+}
+
+function hasPathSumStack(root: TreeNode | null, targetSum: number): boolean {
     if (!root) return false;
 
     const stack: [TreeNode, number][] = [[root, root.val]]
     while (stack.length > 0) {
         const [node, sum] = stack.pop();
 
+        if (!node.left && !node.right && sum === targetSum) return true;
         if (node.left) stack.push([node.left, sum + node.left.val])
         if (node.right) stack.push([node.right, sum + node.right.val])
-        if (!node.left && !node.right && sum === targetSum) return true;
     }
 
     return false;
