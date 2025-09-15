@@ -5,9 +5,9 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 18 |
-| Medium | 2 |
+| Medium | 3 |
 
-### Total Solved: 20
+### Total Solved: 21
 
 ## Problems
 
@@ -39,5 +39,6 @@
 | Number | Title |
 | --- | --- |
 | 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree) |
+| 113 | [Path Sum II](./0113-path-sum-ii) |
 | 133 | [Clone Graph](./0133-clone-graph) |
 
