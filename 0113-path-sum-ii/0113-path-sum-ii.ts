@@ -11,8 +11,29 @@
  *     }
  * }
  */
-
 function pathSum(root: TreeNode | null, targetSum: number): number[][] {
+    const result: number[][] = [];
+
+    function dfs(node: TreeNode | null, currSum: number, path: number[]) {
+        if (!node) return;
+
+        currSum += node.val;
+        path.push(node.val);
+
+        // 리프 노드에서 확인
+        if (!node.left && !node.right && currSum === targetSum) {
+            result.push([...path]);
+        }
+
+        dfs(node.left, currSum, [...path]);
+        dfs(node.right, currSum, [...path]);
+    }
+
+    dfs(root, 0, []);
+    return result;
+}
+
+function pathSumStack(root: TreeNode | null, targetSum: number): number[][] {
     if (!root) return [];
 
     const stack: [TreeNode, number, number[]][] = [[root, root.val, [root.val]]];
