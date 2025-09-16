@@ -11,10 +11,24 @@
  *     }
  * }
  */
-
 function preorderTraversal(root: TreeNode | null): number[] {
     if (!root) return [];
-    
+    const result: number[] = [];
+
+    function preorder(node: TreeNode) {
+        result.push(node.val);
+        if (node.left) preorder(node.left);
+        if (node.right) preorder(node.right);
+    }
+
+    preorder(root);
+    return result;
+}
+
+
+function preorderTraversalStack(root: TreeNode | null): number[] {
+    if (!root) return [];
+
     const stack: TreeNode[] = [root];
     const result: number[] = [];
 
