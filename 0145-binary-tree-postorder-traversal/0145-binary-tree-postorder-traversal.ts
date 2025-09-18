@@ -12,10 +12,10 @@
  * }
  */
 
-function postorderTraversal(root: TreeNode | null): number[] {
+function postorderTraversalRecursive(root: TreeNode | null): number[] {
     if (!root) return [];
     const result: number[] = [];
-    
+
     function postorder(node: TreeNode) {
         if (node.left) postorder(node.left);
         if (node.right) postorder(node.right);
@@ -25,3 +25,19 @@ function postorderTraversal(root: TreeNode | null): number[] {
     postorder(root);
     return result;
 };
+
+function postorderTraversal(root: TreeNode | null): number[] {
+    if (!root) return [];
+
+    const stack: TreeNode[] = [root]
+    const result: number[] = [];
+    while (stack.length > 0) {
+        const node = stack.pop();
+        result.push(node.val);
+
+        if (node.left) stack.push(node.left);
+        if (node.right) stack.push(node.right);
+    }
+
+    return result.reverse();
+}
