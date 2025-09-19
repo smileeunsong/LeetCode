@@ -11,8 +11,32 @@
  *     }
  * }
  */
-
 function binaryTreePaths(root: TreeNode | null): string[] {
+    const result = [];
+
+    function dfs(node: TreeNode | null, path: string): void {
+        if (!node) return;
+
+        if (path === '') {
+            path = node.val.toString();
+        } else {
+            path += '->' + node.val.toString();
+        }
+
+        if (!node.left && !node.right) {
+            result.push(path);
+            return;
+        }
+
+        if (node.left) dfs(node.left, path);
+        if (node.right) dfs(node.right, path);
+    }
+
+    dfs(root, '');
+    return result;
+}
+
+function binaryTreePathsStack(root: TreeNode | null): string[] {
     if (!root) return [];
 
     const result = [];
