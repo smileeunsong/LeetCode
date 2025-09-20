@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 3 |
 
-### Total Solved: 24
+### Total Solved: 25
 
 ## Problems
 
@@ -27,6 +27,7 @@
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
 | 257 | [Binary Tree Paths](./0257-binary-tree-paths) |
 | 383 | [Ransom Note](./0383-ransom-note) |
+| 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) |
 | 412 | [Fizz Buzz](./0412-fizz-buzz) |
 | 506 | [Relative Ranks](./0506-relative-ranks) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
