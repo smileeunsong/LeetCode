@@ -12,27 +12,21 @@
  * }
  */
 
-// function sumOfLeftLeaves(root: TreeNode | null): number {
-//     // 재귀 헬퍼 함수: isLeft 플래그로 왼쪽 자식인지 판단
-//     function dfs(node: TreeNode | null, isLeft: boolean): number {
-//         // 노드가 없으면 0 반환
-//         if (!node) return 0;
-
-//         // 잎 노드인지 확인 (왼쪽, 오른쪽 자식 모두 null)
-//         if (!node.left && !node.right) {
-//             // 왼쪽 잎 노드면 값 반환, 아니면 0
-//             return isLeft ? node.val : 0;
-//         }
-
-//         // 왼쪽 자식은 isLeft=true로, 오른쪽 자식은 isLeft=false로 재귀 호출
-//         return dfs(node.left, true) + dfs(node.right, false);
-//     }
-
-//     // 루트에서 시작, 루트는 왼쪽 자식이 아니므로 false로 시작
-//     return dfs(root, false);
-// }
-
 function sumOfLeftLeaves(root: TreeNode | null): number {
+    function dfs(node: TreeNode | null, isLeft: boolean): number {
+        if (!node) return 0;
+
+        if (!node.left && !node.right) {
+            return isLeft ? node.val : 0;
+        }
+
+        return dfs(node.left, true) + dfs(node.right, false);
+    }
+
+    return dfs(root, false);
+}
+
+function sumOfLeftLeavesStackFlag(root: TreeNode | null): number {
     if (!root) return 0;
 
     let sum = 0;
