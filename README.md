@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 3 |
 
-### Total Solved: 25
+### Total Solved: 26
 
 ## Problems
 
@@ -29,6 +29,7 @@
 | 383 | [Ransom Note](./0383-ransom-note) |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) |
 | 412 | [Fizz Buzz](./0412-fizz-buzz) |
+| 463 | [Island Perimeter](./0463-island-perimeter) |
 | 506 | [Relative Ranks](./0506-relative-ranks) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
