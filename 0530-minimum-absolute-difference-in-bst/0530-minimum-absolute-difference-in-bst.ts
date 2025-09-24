@@ -11,8 +11,25 @@
  *     }
  * }
  */
-
 function getMinimumDifference(root: TreeNode | null): number {
+    let minVal: number = Infinity;
+    let prev: number | null = null;
+
+    function inorder(node: TreeNode | null): void {
+        if (!node) return;
+        inorder(node.left);
+        if (prev !== null) {
+            minVal = Math.min(minVal, node.val - prev);
+        }
+        prev = node.val;
+        inorder(node.right);
+    }
+
+    inorder(root);
+    return minVal;
+}
+
+function getMinimumDifferenceFirstTry(root: TreeNode | null): number {
     const arr: number[] = [];
     let minVal: number = Infinity;
     
