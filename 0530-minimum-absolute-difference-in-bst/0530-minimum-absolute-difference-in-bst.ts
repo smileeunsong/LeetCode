@@ -12,6 +12,8 @@
  * }
  */
 function getMinimumDifference(root: TreeNode | null): number {
+    // 시간 복잡도: O(n)
+    // 공간 복잡도: O(1)
     let minVal: number = Infinity;
     let prev: number | null = null;
 
@@ -30,6 +32,8 @@ function getMinimumDifference(root: TreeNode | null): number {
 }
 
 function getMinimumDifferenceFirstTry(root: TreeNode | null): number {
+    // 시간 복잡도: O(n)
+    // 공간 복잡도: O(n)
     const arr: number[] = [];
     let minVal: number = Infinity;
     
