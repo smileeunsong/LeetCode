@@ -11,8 +11,41 @@
  *     }
  * }
  */
-
 function diameterOfBinaryTree(root: TreeNode | null): number {
+    if (!root) return 0;
+
+    let max: number = 0;
+    const stack: TreeNode[] = [root];
+    const heights: Map<TreeNode, number> = new Map();
+    const visited: Set<TreeNode> = new Set();
+
+    while (stack.length > 0) {
+        const node = stack[stack.length - 1];
+
+        if (!visited.has(node)) {
+            if (node.right) stack.push(node.right);
+            if (node.left) stack.push(node.left);
+            visited.add(node);
+            continue;
+        }
+
+        // postorder: 왼쪽, 오른쪽 처리 후 현재 노드
+        stack.pop();
+
+        const leftHeight = node.left ? heights.get(node.left) : 0;
+        const rightHeight = node.right ? heights.get(node.right) : 0;
+
+        const curr = leftHeight + rightHeight;
+
+        max = Math.max(max, curr);
+
+        heights.set(node, Math.max(leftHeight, rightHeight) + 1);
+    }
+
+    return max;
+}
+
+function diameterOfBinaryTreeRecursive(root: TreeNode | null): number {
     let max: number = 0;
 
     function height(node: TreeNode | null): number {
