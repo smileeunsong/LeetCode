@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 3 |
 
-### Total Solved: 28
+### Total Solved: 29
 
 ## Problems
 
@@ -33,6 +33,7 @@
 | 501 | [Find Mode in Binary Search Tree](./0501-find-mode-in-binary-search-tree) |
 | 506 | [Relative Ranks](./0506-relative-ranks) |
 | 530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst) |
+| 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
