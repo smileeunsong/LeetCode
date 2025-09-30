@@ -11,8 +11,19 @@
  * }
  */
 
-
 function maxDepth(root: _Node | null): number {
+    if (!root) return 0;
+    if (!root.children.length) return 1;
+    let maxChildDepth = 0;
+
+    for (let child of root.children) {
+        maxChildDepth = Math.max(maxChildDepth, maxDepth(child))
+    }
+
+    return maxChildDepth + 1;
+}
+
+function maxDepthStack(root: _Node | null): number {
     if (!root) return 0;
 
     const stack: [_Node, number][] = [[root, 1]];
