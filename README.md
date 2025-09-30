@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 3 |
 
-### Total Solved: 29
+### Total Solved: 30
 
 ## Problems
 
@@ -34,6 +34,7 @@
 | 506 | [Relative Ranks](./0506-relative-ranks) |
 | 530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst) |
 | 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree) |
+| 559 | [Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
