@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 28 |
+| Easy | 29 |
 | Medium | 3 |
 
-### Total Solved: 31
+### Total Solved: 32
 
 ## Problems
 
@@ -36,6 +36,7 @@
 | 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree) |
 | 559 | [Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree) |
 | 563 | [Binary Tree Tilt](./0563-binary-tree-tilt) |
+| 572 | [Subtree of Another Tree](./0572-subtree-of-another-tree) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
