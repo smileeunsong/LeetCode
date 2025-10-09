@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 3 |
 
-### Total Solved: 34
+### Total Solved: 35
 
 ## Problems
 
@@ -39,6 +39,7 @@
 | 572 | [Subtree of Another Tree](./0572-subtree-of-another-tree) |
 | 589 | [N-ary Tree Preorder Traversal](./0589-n-ary-tree-preorder-traversal) |
 | 590 | [N-ary Tree Postorder Traversal](./0590-n-ary-tree-postorder-traversal) |
+| 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
