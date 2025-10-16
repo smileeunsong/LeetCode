@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 37 |
+| Easy | 38 |
 | Medium | 3 |
 
-### Total Solved: 40
+### Total Solved: 41
 
 ## Problems
 
@@ -43,6 +43,7 @@
 | 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees) |
 | 637 | [Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
+| 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1148 | [Article Views I](./1148-article-views-i) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
