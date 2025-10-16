@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 38 |
+| Easy | 40 |
 | Medium | 3 |
 
-### Total Solved: 41
+### Total Solved: 43
 
 ## Problems
 
@@ -38,8 +38,10 @@
 | 559 | [Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree) |
 | 563 | [Binary Tree Tilt](./0563-binary-tree-tilt) |
 | 572 | [Subtree of Another Tree](./0572-subtree-of-another-tree) |
+| 584 | [Find Customer Referee](./0584-find-customer-referee) |
 | 589 | [N-ary Tree Preorder Traversal](./0589-n-ary-tree-preorder-traversal) |
 | 590 | [N-ary Tree Postorder Traversal](./0590-n-ary-tree-postorder-traversal) |
+| 595 | [Big Countries](./0595-big-countries) |
 | 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees) |
 | 637 | [Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
