@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 3 |
 
-### Total Solved: 39
+### Total Solved: 40
 
 ## Problems
 
@@ -47,6 +47,7 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) |
+| 1683 | [Invalid Tweets](./1683-invalid-tweets) |
 | 1757 | [Recyclable and Low Fat Products](./1757-recyclable-and-low-fat-products) |
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately) |
 | 2235 | [Add Two Integers](./2235-add-two-integers) |
