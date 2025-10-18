@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 45 |
+| Easy | 46 |
 | Medium | 3 |
 
-### Total Solved: 48
+### Total Solved: 49
 
 ## Problems
 
@@ -54,6 +54,7 @@
 | 1378 | [Replace Employee ID With The Unique Identifier](./1378-replace-employee-id-with-the-unique-identifier) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./1581-customer-who-visited-but-did-not-make-any-transactions) |
+| 1661 | [Average Time of Process per Machine](./1661-average-time-of-process-per-machine) |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets) |
 | 1757 | [Recyclable and Low Fat Products](./1757-recyclable-and-low-fat-products) |
