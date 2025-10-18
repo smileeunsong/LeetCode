@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 42 |
+| Easy | 43 |
 | Medium | 3 |
 
-### Total Solved: 45
+### Total Solved: 46
 
 ## Problems
 
@@ -46,6 +46,7 @@
 | 637 | [Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree) |
 | 653 | [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
+| 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1148 | [Article Views I](./1148-article-views-i) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
