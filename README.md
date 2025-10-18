@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 40 |
+| Easy | 41 |
 | Medium | 3 |
 
-### Total Solved: 43
+### Total Solved: 44
 
 ## Problems
 
@@ -44,6 +44,7 @@
 | 595 | [Big Countries](./0595-big-countries) |
 | 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees) |
 | 637 | [Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree) |
+| 653 | [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1148 | [Article Views I](./1148-article-views-i) |
