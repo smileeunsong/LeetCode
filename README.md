@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 41 |
+| Easy | 42 |
 | Medium | 3 |
 
-### Total Solved: 44
+### Total Solved: 45
 
 ## Problems
 
@@ -49,6 +49,7 @@
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1148 | [Article Views I](./1148-article-views-i) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
+| 1378 | [Replace Employee ID With The Unique Identifier](./1378-replace-employee-id-with-the-unique-identifier) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets) |
