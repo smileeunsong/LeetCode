@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 47 |
+| Easy | 48 |
 | Medium | 3 |
 
-### Total Solved: 50
+### Total Solved: 51
 
 ## Problems
 
@@ -51,6 +51,7 @@
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1148 | [Article Views I](./1148-article-views-i) |
+| 1280 | [Students and Examinations](./1280-students-and-examinations) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1378 | [Replace Employee ID With The Unique Identifier](./1378-replace-employee-id-with-the-unique-identifier) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
