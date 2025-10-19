@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 46 |
+| Easy | 47 |
 | Medium | 3 |
 
-### Total Solved: 49
+### Total Solved: 50
 
 ## Problems
 
@@ -39,6 +39,7 @@
 | 559 | [Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree) |
 | 563 | [Binary Tree Tilt](./0563-binary-tree-tilt) |
 | 572 | [Subtree of Another Tree](./0572-subtree-of-another-tree) |
+| 577 | [Employee Bonus](./0577-employee-bonus) |
 | 584 | [Find Customer Referee](./0584-find-customer-referee) |
 | 589 | [N-ary Tree Preorder Traversal](./0589-n-ary-tree-preorder-traversal) |
 | 590 | [N-ary Tree Postorder Traversal](./0590-n-ary-tree-postorder-traversal) |
