@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 48 |
+| Easy | 49 |
 | Medium | 3 |
 
-### Total Solved: 51
+### Total Solved: 52
 
 ## Problems
 
@@ -47,6 +47,7 @@
 | 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees) |
 | 637 | [Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree) |
 | 653 | [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst) |
+| 671 | [Second Minimum Node In a Binary Tree](./0671-second-minimum-node-in-a-binary-tree) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
