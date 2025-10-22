@@ -5,9 +5,9 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 49 |
-| Medium | 3 |
+| Medium | 4 |
 
-### Total Solved: 52
+### Total Solved: 53
 
 ## Problems
 
@@ -72,4 +72,5 @@
 | 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree) |
 | 113 | [Path Sum II](./0113-path-sum-ii) |
 | 133 | [Clone Graph](./0133-clone-graph) |
+| 570 | [Managers with at Least 5 Direct Reports](./0570-managers-with-at-least-5-direct-reports) |
 
