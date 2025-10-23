@@ -5,9 +5,9 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 49 |
-| Medium | 4 |
+| Medium | 5 |
 
-### Total Solved: 53
+### Total Solved: 54
 
 ## Problems
 
@@ -73,4 +73,5 @@
 | 113 | [Path Sum II](./0113-path-sum-ii) |
 | 133 | [Clone Graph](./0133-clone-graph) |
 | 570 | [Managers with at Least 5 Direct Reports](./0570-managers-with-at-least-5-direct-reports) |
+| 1934 | [Confirmation Rate](./1934-confirmation-rate) |
 
