@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 50 |
+| Easy | 51 |
 | Medium | 5 |
 
-### Total Solved: 55
+### Total Solved: 56
 
 ## Problems
 
@@ -45,6 +45,7 @@
 | 590 | [N-ary Tree Postorder Traversal](./0590-n-ary-tree-postorder-traversal) |
 | 595 | [Big Countries](./0595-big-countries) |
 | 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees) |
+| 620 | [Not Boring Movies](./0620-not-boring-movies) |
 | 637 | [Average of Levels in Binary Tree](./0637-average-of-levels-in-binary-tree) |
 | 653 | [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst) |
 | 671 | [Second Minimum Node In a Binary Tree](./0671-second-minimum-node-in-a-binary-tree) |
