@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 54 |
+| Easy | 55 |
 | Medium | 5 |
 
-### Total Solved: 59
+### Total Solved: 60
 
 ## Problems
 
@@ -55,6 +55,7 @@
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
+| 1075 | [Project Employees I](./1075-project-employees-i) |
 | 1148 | [Article Views I](./1148-article-views-i) |
 | 1251 | [Average Selling Price](./1251-average-selling-price) |
 | 1280 | [Students and Examinations](./1280-students-and-examinations) |
