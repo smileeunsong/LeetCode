@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 53 |
+| Easy | 54 |
 | Medium | 5 |
 
-### Total Solved: 58
+### Total Solved: 59
 
 ## Problems
 
@@ -51,6 +51,7 @@
 | 671 | [Second Minimum Node In a Binary Tree](./0671-second-minimum-node-in-a-binary-tree) |
 | 733 | [Flood Fill](./0733-flood-fill) |
 | 783 | [Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes) |
+| 872 | [Leaf-Similar Trees](./0872-leaf-similar-trees) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
