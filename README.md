@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 55 |
+| Easy | 56 |
 | Medium | 5 |
 
-### Total Solved: 60
+### Total Solved: 61
 
 ## Problems
 
@@ -53,6 +53,7 @@
 | 783 | [Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes) |
 | 872 | [Leaf-Similar Trees](./0872-leaf-similar-trees) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
+| 897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree) |
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1075 | [Project Employees I](./1075-project-employees-i) |
