@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 57 |
+| Easy | 58 |
 | Medium | 5 |
 
-### Total Solved: 62
+### Total Solved: 63
 
 ## Problems
 
@@ -54,6 +54,7 @@
 | 872 | [Leaf-Similar Trees](./0872-leaf-similar-trees) |
 | 876 | [Middle of the Linked List](./0876-middle-of-the-linked-list) |
 | 897 | [Increasing Order Search Tree](./0897-increasing-order-search-tree) |
+| 938 | [Range Sum of BST](./0938-range-sum-of-bst) |
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1075 | [Project Employees I](./1075-project-employees-i) |
