@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 58 |
+| Easy | 59 |
 | Medium | 5 |
 
-### Total Solved: 63
+### Total Solved: 64
 
 ## Problems
 
@@ -59,6 +59,7 @@
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1075 | [Project Employees I](./1075-project-employees-i) |
 | 1148 | [Article Views I](./1148-article-views-i) |
+| 1211 | [Queries Quality and Percentage](./1211-queries-quality-and-percentage) |
 | 1251 | [Average Selling Price](./1251-average-selling-price) |
 | 1280 | [Students and Examinations](./1280-students-and-examinations) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
