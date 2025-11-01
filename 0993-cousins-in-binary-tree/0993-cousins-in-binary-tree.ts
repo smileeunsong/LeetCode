@@ -16,10 +16,10 @@ function isCousins(root: TreeNode | null, x: number, y: number): boolean {
     if (!root) return false;
 
     const queue: [TreeNode, number, number][] = [[root, 0, root.val]];
-    let xDepth: number = 0;
-    let yDepth: number = 0;
-    let xParentVal: number = root.val;
-    let yParentVal: number = root.val;
+    let xDepth: number = -1;
+    let yDepth: number = -1;
+    let xParentVal: number = -1;
+    let yParentVal: number = -1;
     
     while (queue.length > 0) {
         const [node, depth, parentVal] = queue.shift();
@@ -36,9 +36,7 @@ function isCousins(root: TreeNode | null, x: number, y: number): boolean {
             yDepth = depth;
             yParentVal = parentVal;
         }
-
-        if (xDepth !== 0 && yDepth !== 0 && xDepth === yDepth && xParentVal !== yParentVal) return true;
     }
 
-    return false;
+    return xDepth !== -1 && xDepth === yDepth && xParentVal !== yParentVal
 };
