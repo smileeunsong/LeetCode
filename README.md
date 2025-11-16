@@ -5,9 +5,9 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 62 |
-| Medium | 6 |
+| Medium | 7 |
 
-### Total Solved: 68
+### Total Solved: 69
 
 ## Problems
 
@@ -86,6 +86,7 @@
 | 113 | [Path Sum II](./0113-path-sum-ii) |
 | 133 | [Clone Graph](./0133-clone-graph) |
 | 570 | [Managers with at Least 5 Direct Reports](./0570-managers-with-at-least-5-direct-reports) |
+| 1174 | [Immediate Food Delivery II](./1174-immediate-food-delivery-ii) |
 | 1193 | [Monthly Transactions I](./1193-monthly-transactions-i) |
 | 1934 | [Confirmation Rate](./1934-confirmation-rate) |
 
