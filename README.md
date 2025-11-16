@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 61 |
+| Easy | 62 |
 | Medium | 6 |
 
-### Total Solved: 67
+### Total Solved: 68
 
 ## Problems
 
@@ -57,6 +57,7 @@
 | 938 | [Range Sum of BST](./0938-range-sum-of-bst) |
 | 965 | [Univalued Binary Tree](./0965-univalued-binary-tree) |
 | 993 | [Cousins in Binary Tree](./0993-cousins-in-binary-tree) |
+| 1022 | [Sum of Root To Leaf Binary Numbers](./1022-sum-of-root-to-leaf-binary-numbers) |
 | 1068 | [Product Sales Analysis I](./1068-product-sales-analysis-i) |
 | 1071 | [Greatest Common Divisor of Strings](./1071-greatest-common-divisor-of-strings) |
 | 1075 | [Project Employees I](./1075-project-employees-i) |
