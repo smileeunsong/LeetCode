@@ -28,13 +28,13 @@
 // };
 
 function sumRootToLeaf(root: TreeNode | null): number {
-    const dfs = (node: TreeNode | null, current: number): number =? {
+    const dfs = (node: TreeNode | null, pathValue: number): number => {
         if (!node) return 0;
 
-        const nextVal = (current << 1) | node.val;
-        if (!node.left && !node.right) return nextVal;
+        const newPathValue = (pathValue << 1) | node.val;
+        if (!node.left && !node.right) return newPathValue;
 
-        return dfs(node.left, nextVal) + dfs(node.right, nextVal);
+        return dfs(node.left, newPathValue) + dfs(node.right, newPathValue);
     };
     return dfs(root, 0);
 }
