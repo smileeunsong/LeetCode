@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 62 |
+| Easy | 63 |
 | Medium | 7 |
 
-### Total Solved: 69
+### Total Solved: 70
 
 ## Problems
 
@@ -67,6 +67,7 @@
 | 1280 | [Students and Examinations](./1280-students-and-examinations) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1378 | [Replace Employee ID With The Unique Identifier](./1378-replace-employee-id-with-the-unique-identifier) |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./1581-customer-who-visited-but-did-not-make-any-transactions) |
 | 1633 | [Percentage of Users Attended a Contest](./1633-percentage-of-users-attended-a-contest) |
