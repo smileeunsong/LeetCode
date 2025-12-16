@@ -15,16 +15,10 @@
 function getTargetCopy(original: TreeNode | null, cloned: TreeNode | null, target: TreeNode | null): TreeNode | null {
     if (!original || !cloned || !target) return null;
 
-    const refMap = new Map<TreeNode, TreeNode>();
-
-    function dfs(oNode: TreeNode | null, cNode: TreeNode | null) {
-        if (!oNode || !cNode) return;
-
-        refMap.set(oNode, cNode);
-        if (oNode.left) dfs(oNode.left, cNode.left);
-        if (oNode.right) dfs(oNode.right, cNode.right);
-    }
-    dfs(original, cloned);
+    if (original === target) return cloned;
     
-    return refMap.get(target);
+    const left = getTargetCopy(original.left, cloned.left, target);
+    if (left) return left;
+
+    return getTargetCopy(original.right, cloned.right, target);
 };
