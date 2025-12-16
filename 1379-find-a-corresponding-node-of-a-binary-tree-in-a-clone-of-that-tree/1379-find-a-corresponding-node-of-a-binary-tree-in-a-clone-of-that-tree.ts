@@ -24,8 +24,7 @@ function getTargetCopy(original: TreeNode | null, cloned: TreeNode | null, targe
         if (oNode.left) dfs(oNode.left, cNode.left);
         if (oNode.right) dfs(oNode.right, cNode.right);
     }
-
     dfs(original, cloned);
-    console.log(refMap);
+    
     return refMap.get(target);
 };
