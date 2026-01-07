@@ -7,11 +7,11 @@ function validPath(n: number, edges: number[][], source: number, destination: nu
     }
 
     const visited: boolean[] = Array(n).fill(false);
+    visited[source] = true;
     const stack: number[] = [source];
 
     while (stack.length > 0) {
         const cur = stack.pop();
-        // visited[cur] = true;
         if (cur === destination) return true;
 
         for (const next of adj[cur]) {
