@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 64 |
+| Easy | 65 |
 | Medium | 7 |
 
-### Total Solved: 71
+### Total Solved: 72
 
 ## Problems
 
@@ -79,6 +79,7 @@
 | 1971 | [Find if Path Exists in Graph](./1971-find-if-path-exists-in-graph) |
 | 2235 | [Add Two Integers](./2235-add-two-integers) |
 | 2236 | [Root Equals Sum of Children](./2236-root-equals-sum-of-children) |
+| 2331 | [Evaluate Boolean Binary Tree](./2331-evaluate-boolean-binary-tree) |
 
 ### Medium
 
