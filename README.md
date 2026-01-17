@@ -5,9 +5,9 @@
 | Difficulty | Solved Count |
 | --- | --- |
 | Easy | 66 |
-| Medium | 7 |
+| Medium | 8 |
 
-### Total Solved: 73
+### Total Solved: 74
 
 ## Problems
 
@@ -86,6 +86,7 @@
 
 | Number | Title |
 | --- | --- |
+| 50 | [Pow(x, n)](./0050-powx-n) |
 | 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree) |
 | 113 | [Path Sum II](./0113-path-sum-ii) |
 | 133 | [Clone Graph](./0133-clone-graph) |
