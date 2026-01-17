@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 65 |
+| Easy | 66 |
 | Medium | 7 |
 
-### Total Solved: 72
+### Total Solved: 73
 
 ## Problems
 
@@ -15,6 +15,7 @@
 
 | Number | Title |
 | --- | --- |
+| 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) |
 | 100 | [Same Tree](./0100-same-tree) |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) |
