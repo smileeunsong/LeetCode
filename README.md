@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 66 |
+| Easy | 67 |
 | Medium | 8 |
 
-### Total Solved: 74
+### Total Solved: 75
 
 ## Problems
 
@@ -27,6 +27,7 @@
 | 145 | [Binary Tree Postorder Traversal](./0145-binary-tree-postorder-traversal) |
 | 175 | [Combine Two Tables](./0175-combine-two-tables) |
 | 197 | [Rising Temperature](./0197-rising-temperature) |
+| 203 | [Remove Linked List Elements](./0203-remove-linked-list-elements) |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
 | 257 | [Binary Tree Paths](./0257-binary-tree-paths) |
 | 383 | [Ransom Note](./0383-ransom-note) |
