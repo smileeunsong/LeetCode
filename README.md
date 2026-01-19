@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 67 |
+| Easy | 68 |
 | Medium | 8 |
 
-### Total Solved: 75
+### Total Solved: 76
 
 ## Problems
 
@@ -28,6 +28,7 @@
 | 175 | [Combine Two Tables](./0175-combine-two-tables) |
 | 197 | [Rising Temperature](./0197-rising-temperature) |
 | 203 | [Remove Linked List Elements](./0203-remove-linked-list-elements) |
+| 206 | [Reverse Linked List](./0206-reverse-linked-list) |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
 | 257 | [Binary Tree Paths](./0257-binary-tree-paths) |
 | 383 | [Ransom Note](./0383-ransom-note) |
