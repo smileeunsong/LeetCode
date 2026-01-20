@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 68 |
+| Easy | 69 |
 | Medium | 8 |
 
-### Total Solved: 76
+### Total Solved: 77
 
 ## Problems
 
@@ -30,6 +30,7 @@
 | 203 | [Remove Linked List Elements](./0203-remove-linked-list-elements) |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) |
+| 231 | [Power of Two](./0231-power-of-two) |
 | 257 | [Binary Tree Paths](./0257-binary-tree-paths) |
 | 383 | [Ransom Note](./0383-ransom-note) |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) |
