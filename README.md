@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 70 |
+| Easy | 71 |
 | Medium | 8 |
 
-### Total Solved: 78
+### Total Solved: 79
 
 ## Problems
 
@@ -33,6 +33,7 @@
 | 231 | [Power of Two](./0231-power-of-two) |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) |
 | 257 | [Binary Tree Paths](./0257-binary-tree-paths) |
+| 326 | [Power of Three](./0326-power-of-three) |
 | 383 | [Ransom Note](./0383-ransom-note) |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) |
 | 412 | [Fizz Buzz](./0412-fizz-buzz) |
