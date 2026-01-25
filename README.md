@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 | --- | --- |
-| Easy | 72 |
+| Easy | 73 |
 | Medium | 8 |
 
-### Total Solved: 80
+### Total Solved: 81
 
 ## Problems
 
@@ -41,6 +41,7 @@
 | 463 | [Island Perimeter](./0463-island-perimeter) |
 | 501 | [Find Mode in Binary Search Tree](./0501-find-mode-in-binary-search-tree) |
 | 506 | [Relative Ranks](./0506-relative-ranks) |
+| 509 | [Fibonacci Number](./0509-fibonacci-number) |
 | 530 | [Minimum Absolute Difference in BST](./0530-minimum-absolute-difference-in-bst) |
 | 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree) |
 | 559 | [Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree) |
